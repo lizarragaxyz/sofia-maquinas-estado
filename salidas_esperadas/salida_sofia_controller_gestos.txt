@@ -1,0 +1,11 @@
+INFO: sofia_controller_gestos: Starting controller: python.exe -u sofia_controller_gestos.py
+[  2.02 s] ESPERA -> MOVER  (gesto si; q1=+0.00, q2=-0.00)
+[  2.34 s] MOVER -> ASENTAR  (gesto si; q1=+0.00, q2=+0.37)
+[  2.53 s] ASENTAR -> MOVER  (gesto si; q1=+0.00, q2=+0.44)
+[  3.01 s] MOVER -> ASENTAR  (gesto si; q1=+0.00, q2=-0.16)
+[  3.20 s] ASENTAR -> MOVER  (gesto si; q1=+0.00, q2=-0.24)
+[  3.68 s] MOVER -> ASENTAR  (gesto si; q1=+0.00, q2=+0.36)
+[  3.87 s] ASENTAR -> SOSTENER  (gesto si; q1=+0.00, q2=+0.44)
+[  4.90 s] SOSTENER -> MOVER  (gesto si; q1=+0.00, q2=+0.45)
+[  5.22 s] MOVER -> ASENTAR  (gesto si; q1=+0.00, q2=+0.08)
+[  5.41 s] ASENTAR -> ESPERA  (sin gesto; q1=+0.00, q2=+0.01)

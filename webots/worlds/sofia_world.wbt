@@ -1,0 +1,29 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "../protos/sofia.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.14703333743481367 0.26597322216970104 -0.952701129825848 1.051553822740266
+  position -0.31318441803856906 0.4760812981815971 0.185056624937333
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+}
+sofia {
+  hidden position_0_0 -0.03774293628814629
+  hidden position_0_1 -0.03774294177427162
+  hidden rotation_1 -1 0 0 0.037742936288142216
+  hidden position_1_0 -0.0400447476377184
+  hidden rotation_2 0 -1 0 0.04004474763771448
+  hidden rotation_3 0 -1 0 0.03774294177427213
+  rotation 0.7146221932675224 -0.6995106295757882 -8.101423919623766e-13 0.00030103590361873887
+  controller "sofia_controller_gestos"
+}

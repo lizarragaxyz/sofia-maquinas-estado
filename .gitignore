@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Archivos que Webots genera al abrir/guardar un mundo
+webots/worlds/.*.wbproj
+webots/worlds/.*.jpg

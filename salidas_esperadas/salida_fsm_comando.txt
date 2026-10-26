@@ -1,0 +1,4 @@
+RECIBIDO   --crc_ok--> VALIDADO
+VALIDADO   --crc_error--> VALIDADO
+VALIDADO   --ejecutar--> EJECUTANDO
+EJECUTANDO --en_posicion--> COMPLETADO
